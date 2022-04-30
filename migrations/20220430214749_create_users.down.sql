@@ -1,0 +1,1 @@
+drop table test.t_user;
